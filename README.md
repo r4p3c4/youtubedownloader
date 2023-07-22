@@ -28,10 +28,18 @@ Instalas Git:
     
     sudo apt install git
 
-Instala la actualización de python:
+Instalas la actualización de python:
     
     sudo apt upgrade git
 
+Instalas Unzip:
+
+    sudo apt install unzip
+
+Instalas la actualización de Unzip:
+    
+    sudo apt upgrade unzip
+    
 Instalas Python:
     
     sudo apt install python3
@@ -43,6 +51,10 @@ Instala la actualización de python:
 Descargas la herramienta YoutubeDownloader
 
     git clone https://github.com/r4p3c4/youtubedownloader.git
+
+Accedes a youtubedownloader
+
+    cd youtubedownloader
 
 Accedes a la carpeta Dependecias Linux:
     
