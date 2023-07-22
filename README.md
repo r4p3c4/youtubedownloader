@@ -28,6 +28,10 @@ Instalas Git:
     
     sudo apt install git
 
+Instala la actualización de python:
+    
+    sudo apt upgrade git
+
 Instalas Python:
     
     sudo apt install python3
