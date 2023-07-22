@@ -70,23 +70,23 @@ Ejecutas la herramienta
 
 <img src='https://i.postimg.cc/dtmrHnZY/video1.png' border='0' alt='video1'/>
 
-## Para descargar un video seleccionas la opción 1, pegas la URL de youtube, y una vez ya se ha descargado el video te indica "Descarga completada"
+## Para descargar un video seleccionas la opción 1, pegas la URL de youtube, y una vez ya se ha descargado el video te indica "Descarga completada":
 
 <img src="https://i.postimg.cc/RVJk56QG/video2.png" alt="video2"/>
 
-## Se puede ver que ya se tiene el video descargado
+## Se puede ver que ya se tiene el video descargado:
 
 <img src="https://i.postimg.cc/tTrKyFMv/video3.png" alt="video3"/>
 
 <img src='https://i.postimg.cc/rpBjDgvd/tg.png' border='0' alt='tg'/>
 
-## Para descargar música seleccionas la opción 2, pegas la URL de youtube, y una vez ya se ha descargado la música te indica el nombre en la que se ha guardado
+## Para descargar música seleccionas la opción 2, pegas la URL de youtube, y una vez ya se ha descargado la música te indica el nombre en la que se ha guardado:
 
 <img src="https://i.postimg.cc/Ss3Z7g0b/muxica1.png" alt="muxica1"/>
 
 <img src="https://i.postimg.cc/wvLyND1W/muusica2.png" alt="muusica2"/>
 
-## Se puede ver que ya se tiene también la música descargada
+## Se puede ver que ya se tiene también la música descargada:
 
 <img src="https://i.postimg.cc/0jFhKPxp/musica3.png" alt="musica3"/>
 
