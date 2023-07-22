@@ -9,6 +9,12 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 # Linkedin
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+
+# Telegram
+
+<a href='https://t.me/NoticiasCiberseguridadyCryptos' target='_blank'><img src='https://i.postimg.cc/bvV61dg4/telegram.png' border='0' alt='telegram'/></a>
+
+
 # Versión de python utilizada
 
 [![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
