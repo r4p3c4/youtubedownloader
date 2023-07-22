@@ -21,7 +21,8 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 # Instalación y dependencias del programa para Linux
 
 ddd
-    sudo apt update
+
+    sudo apt-get update
 
 ddd
     
