@@ -12,7 +12,7 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 # Telegram
 
-<a href='https://t.me/NoticiasCiberseguridadyCryptos' target='_blank'><img src='https://i.postimg.cc/bvV61dg4/telegram.png' border='0' alt='telegram'/></a>
+<a href='https://t.me/NoticiasCiberseguridadyCryptos' target='_blank'><img src='https://i.postimg.cc/HJ54gYft/telegram.png' border='0' alt='telegram'/></a>
 
 
 # Versión de python utilizada
