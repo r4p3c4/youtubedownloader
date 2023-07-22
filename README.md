@@ -14,7 +14,7 @@ La herramienta youtubedownloader va a poder descargar cualquier video (los video
 # Linkedin
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
-# Instalación y dependencias del programa para windows
+# Instalación y dependencias del programa para Windows
 
 https://www.youtube.com/watch?v=v6enbbJy5OE
 
