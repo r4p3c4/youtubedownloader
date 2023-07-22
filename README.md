@@ -70,11 +70,11 @@ Accedes a la carpeta anterior
 
 Añades permisos de ejecución a la aplicación:
 
-    chmod +x youtubedownloader_linux.py
+    chmod +x youtubedownloader.py
 
 Ejecutas la herramienta
 
-    python3 youtubedownloader_linux.py
+    python3 youtubedownloader.py
 
 
 
