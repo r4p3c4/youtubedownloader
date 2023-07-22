@@ -24,10 +24,6 @@ Actualiza la lista de paquetes disponibles desde los repositorios de software co
 
     sudo apt-get update
 
-Instala la actualización de python:
-    
-    sudo apt upgrade python3
-
 Instalas Git:
     
     sudo apt install git
@@ -35,6 +31,10 @@ Instalas Git:
 Instalas Python:
     
     sudo apt install python3
+
+Instala la actualización de python:
+    
+    sudo apt upgrade python3
     
 Accedes a la carpeta Dependecias Linux:
     
