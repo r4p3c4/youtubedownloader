@@ -74,7 +74,7 @@ Añades permisos de ejecución a la aplicación:
 
 Ejecutas la herramienta
 
-    ./youtubedownloader_linux.py
+    python3 youtubedownloader_linux.py
 
 
 
