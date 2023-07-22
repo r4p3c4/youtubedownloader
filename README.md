@@ -31,14 +31,6 @@ Instalas Git:
 Instalas la actualización de python:
     
     sudo apt upgrade git
-
-Instalas Unzip:
-
-    sudo apt install unzip
-
-Instalas la actualización de Unzip:
-    
-    sudo apt upgrade unzip
     
 Instalas Python:
     
