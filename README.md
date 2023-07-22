@@ -74,9 +74,9 @@ Ejecutas la herramienta
 
 <img src="https://i.postimg.cc/tTrKyFMv/video3.png" alt="video3"/>
 
-<img src="https://i.postimg.cc/c17t4MyC/videoo4.png" alt="videoo4"/>
+<img src="https://i.postimg.cc/prjs0Kxh/videoooo4.png" alt="videoooo4"/>
 
-<img src="https://i.postimg.cc/HLf8j6kc/muusica1.png" alt="muusica1"/>
+<img src="https://i.postimg.cc/Ss3Z7g0b/muxica1.png" alt="muxica1"/>
 
 <img src="https://i.postimg.cc/wvLyND1W/muusica2.png" alt="muusica2"/>
 
