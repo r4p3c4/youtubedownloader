@@ -6,7 +6,7 @@
 	# Define la ubicación donde deseas guardar el instalador
 	$InstallerPath = "$env:TEMP\python_installer.exe"
 	
-	write-host "Se esta instalando Python de manera silenciosa..."
+	write-host "Se esta instalando Python..."
     # Descarga el instalador de Python desde el sitio oficial
     Invoke-WebRequest -Uri $PythonInstallerUrl -OutFile $InstallerPath
 	
