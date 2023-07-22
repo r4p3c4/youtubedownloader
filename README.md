@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 ### Quick start
 
-> :information_source: We recommend using `pipx` over `pip` for system-wide installations.
+
 
 In order to grab the latest stable release run:
 
