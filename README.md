@@ -74,7 +74,7 @@ Ejecutas la herramienta
 
 <img src="https://i.postimg.cc/tTrKyFMv/video3.png" alt="video3"/>
 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rpBjDgvd/tg.png' border='0' alt='tg'/></a>
+<img src='https://i.postimg.cc/rpBjDgvd/tg.png' border='0' alt='tg'/>
 
 <img src="https://i.postimg.cc/Ss3Z7g0b/muxica1.png" alt="muxica1"/>
 
