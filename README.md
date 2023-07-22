@@ -74,7 +74,7 @@ Ejecutas la herramienta
 
 <img src="https://i.postimg.cc/tTrKyFMv/video3.png" alt="video3"/>
 
-<img src="https://i.postimg.cc/0yN8bCs0/vividedeo.png" alt="vividedeo"/>
+<img src='https://i.postimg.cc/rm5dQ9zt/dbd.jpg' border='0' alt='dbd'/>
 
 <img src="https://i.postimg.cc/Ss3Z7g0b/muxica1.png" alt="muxica1"/>
 
