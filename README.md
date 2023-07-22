@@ -68,6 +68,10 @@ Accedes a la carpeta anterior
 
     cd ..
 
+Añades permisos de ejecución a la aplicación:
+
+    chmod +x youtubedownloader.py
+
 Ejecutas la herramienta
 
     youtubedownloader.py
