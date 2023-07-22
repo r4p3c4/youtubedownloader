@@ -21,9 +21,5 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 ### Quick start
 
-
-
-In order to grab the latest stable release run:
-
     python3 -m pipx install impacket
 
