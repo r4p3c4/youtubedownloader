@@ -27,19 +27,3 @@ In order to grab the latest stable release run:
 
     python3 -m pipx install impacket
 
-If you want to play with the unreleased changes, download the development 
-version from the [master branch](https://github.com/fortra/impacket/tree/master),
-extract the package, and execute the following command from the
-directory where Impacket has been unpacked:
-
-    python3 -m pipx install .
-
-### Docker Support
-
-Build Impacket's image:
-
-      $ docker build -t "impacket:latest" .
-
-Using Impacket's image:
-
-      $ docker run -it --rm "impacket:latest"
