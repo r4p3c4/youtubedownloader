@@ -21,10 +21,16 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 # Instalación y dependencias del programa para Linux
     
     sudo apt update
+
+    ddd
     
     sudo apt upgrade
 
+    dddd
+    
     sudo apt install python3
-
+    
+    dddd
+    
     pip install -r  
 
