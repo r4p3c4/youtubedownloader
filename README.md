@@ -28,7 +28,7 @@ Instalas Git:
     
     sudo apt install git
 
-Instalas la actualización de python:
+Instalas la actualización de git:
     
     sudo apt upgrade git
     
