@@ -68,7 +68,7 @@ Ejecutas la herramienta
 
     python3 youtubedownloader.py
 
-<img src='https://i.postimg.cc/fRB7LkB0/parrot.png' border='0' alt='parrot'/>
+<img src='https://i.postimg.cc/dtmrHnZY/video1.png' border='0' alt='video1'/>
 
 <img src="https://i.postimg.cc/RVJk56QG/video2.png" alt="video2"/>
 
