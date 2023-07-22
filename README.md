@@ -19,6 +19,12 @@ La herramienta youtubedownloader va a poder descargar cualquier video (los video
 https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 # Instalación y dependencias del programa para Linux
+    
+    sudo apt update
+    
+    sudo apt upgrade
 
-    python3 -m pipx install impacket
+    sudo apt install python3
+
+    pip install -r  
 
