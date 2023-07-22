@@ -20,23 +20,27 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 
 # Instalación y dependencias del programa para Linux
 
-ddd
+Actualiza la lista de paquetes disponibles desde los repositorios de software configurados en el sistema:
 
     sudo apt-get update
 
-ddd
+Actualiza los paquetes instalados en el sistema a sus versiones más recientes disponibles en los repositorios configurados:
     
     sudo apt upgrade
 
-dddd
+Instalas Git:
+    
+    sudo apt install git
+
+Instalas Python:
     
     sudo apt install python3
     
-dddd
+Accedes a la carpeta Dependecias Linux:
     
     cd Dependencias Linux
     
-ddddddddddddddddd
+Instalas los requerimientos:
 
-    pip install -r  requerimientos.txt
+    pip3 install -r  requerimientos.txt
 
