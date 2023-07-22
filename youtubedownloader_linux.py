@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/bin/python3.9
 
 def Main():
         print("""
