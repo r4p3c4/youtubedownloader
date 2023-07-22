@@ -22,15 +22,17 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
     
     sudo apt update
 
-    ddd
+ddd
     
     sudo apt upgrade
 
-    dddd
+dddd
     
     sudo apt install python3
     
-    dddd
+dddd
+    cd Dependencias Linux
     
+ddd
     pip install -r  
 
