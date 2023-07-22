@@ -3,6 +3,10 @@ La herramienta youtubedownloader va a poder descargar cualquier video (los video
 
 <a href='https://postimg.cc/DJ9rD63C' target='_blank'><img src='https://i.postimg.cc/D0ZxSpjK/youtube-2.png' border='0' alt='youtube-2'/></a>
 
+# Versión de python utilizada
+
+[![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
+
 # Instalación y dependencias del programa para windows
 
 https://www.youtube.com/watch?v=sWf9zkTYTaY
@@ -13,11 +17,6 @@ https://www.youtube.com/watch?v=sWf9zkTYTaY
 # Telegram
 
 <a href='https://t.me/NoticiasCiberseguridadyCryptos' target='_blank'><img src='https://i.postimg.cc/HJ54gYft/telegram.png' border='0' alt='telegram'/></a>
-
-
-# Versión de python utilizada
-
-[![Python Version](https://img.shields.io/badge/python-3.11+-green)](https://www.python.org)
 
 # Instalación y dependencias del programa para Linux
 
