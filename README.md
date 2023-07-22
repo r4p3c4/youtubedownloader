@@ -24,9 +24,9 @@ Actualiza la lista de paquetes disponibles desde los repositorios de software co
 
     sudo apt-get update
 
-Actualiza los paquetes instalados en el sistema a sus versiones más recientes disponibles en los repositorios configurados:
+Instala la actualización de python:
     
-    sudo apt upgrade
+    sudo apt upgrade python3
 
 Instalas Git:
     
