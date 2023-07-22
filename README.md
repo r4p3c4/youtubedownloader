@@ -33,8 +33,10 @@ dddd
     sudo apt install python3
     
 dddd
-    cd Dependencias_Linux
+    
+    cd Dependencias Linux
     
 ddddddddddddddddd
-    pip install -r  
+
+    pip install -r  requerimientos.txt
 
