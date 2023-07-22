@@ -58,7 +58,7 @@ Accedes a youtubedownloader
 
 Accedes a la carpeta Dependecias Linux:
     
-    cd Dependencias Linux
+    cd Dependencias_Linux
     
 Instalas los requerimientos:
 
