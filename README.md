@@ -39,7 +39,11 @@ Instalas Python:
 Instala la actualización de python:
     
     sudo apt upgrade python3
-    
+
+Descargas la herramienta YoutubeDownloader
+
+    git clone https://github.com/r4p3c4/youtubedownloader.git
+
 Accedes a la carpeta Dependecias Linux:
     
     cd Dependencias Linux
@@ -47,4 +51,13 @@ Accedes a la carpeta Dependecias Linux:
 Instalas los requerimientos:
 
     pip3 install -r  requerimientos.txt
+
+Accedes a la carpeta anterior
+
+    cd ..
+
+Ejecutas la herramienta
+
+
+
 
